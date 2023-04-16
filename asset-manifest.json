@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.4f10aee8.css",
+    "main.js": "/portfolio-react/static/js/main.34acb12b.js",
+    "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
+    "static/media/elegant.jpg": "/portfolio-react/static/media/elegant.7d14a0714051cb29ae82.jpg",
+    "static/media/bulky.png": "/portfolio-react/static/media/bulky.ed623456f90938c695fc.png",
+    "static/media/harvey.png": "/portfolio-react/static/media/harvey.d0b4cf887c7a0d0bf4ea.png",
+    "static/media/sensor.jpg": "/portfolio-react/static/media/sensor.4701bb2c0ecf18d25153.jpg",
+    "static/media/realEstate.png": "/portfolio-react/static/media/realEstate.d253aa1ad33274df2d30.png",
+    "static/media/4wheels.png": "/portfolio-react/static/media/4wheels.839f46cece8db362b42c.png",
+    "static/media/rating.png": "/portfolio-react/static/media/rating.4205bdceebc0e9b49a88.png",
+    "static/media/office.png": "/portfolio-react/static/media/office.77b5ecd2291a55d03660.png",
+    "static/media/research-bg.jpg": "/portfolio-react/static/media/research-bg.1f39e6dddaa963860f90.jpg",
+    "static/media/mrGuard.png": "/portfolio-react/static/media/mrGuard.3bb78bcaf59f33bb54b2.png",
+    "static/media/wall-and-laptop-background.jpg": "/portfolio-react/static/media/wall-and-laptop-background.f9e274f49e7f72950a2f.jpg",
+    "static/media/sticky.png": "/portfolio-react/static/media/sticky.bbe473122dc0998e5fd6.png",
+    "static/media/me.jpg": "/portfolio-react/static/media/me.d6022af226b18ec8a193.jpg",
+    "index.html": "/portfolio-react/index.html",
+    "main.4f10aee8.css.map": "/portfolio-react/static/css/main.4f10aee8.css.map",
+    "main.34acb12b.js.map": "/portfolio-react/static/js/main.34acb12b.js.map",
+    "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f10aee8.css",
+    "static/js/main.34acb12b.js"
+  ]
+}
